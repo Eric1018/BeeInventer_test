@@ -24,6 +24,3 @@ function App() {
 }
 
 export default App
-// git add .
-// git commit -m "Question 3 commit" 
-// git push
